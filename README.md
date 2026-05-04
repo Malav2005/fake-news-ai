@@ -24,3 +24,9 @@ This project is a Machine Learning-based Fake News Detection system that classif
 ## ⚙️ How to Run
 
 ### ▶️ Run Locally
+
+---
+
+## 👩‍💻 Author
+**Malavika**  
+B.Tech Student – Software Engineering & Artificial Intelligence  

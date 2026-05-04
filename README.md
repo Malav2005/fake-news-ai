@@ -29,4 +29,4 @@ This project is a Machine Learning-based Fake News Detection system that classif
 
 ## 👩‍💻 Author
 **Malavika**  
-B.Tech Student – Software Engineering & Artificial Intelligence  
+
